@@ -6,7 +6,7 @@
 </h4>
 
 <p align="center">
-    <img src="/readmeimages/LoveCalcBanner.png" width="350" height="350">
+    <img src="readmeimages/LoveCalcBanner.png" width="350" height="350">
 </p>
 
 <h2 align="center">
@@ -35,7 +35,7 @@ Love Calc is made with HTML, CSS and PHP. The way LoveCalc works is when someone
 * In your favourite text editor open calculate.php
 <br><br>In line <b>56</b> replace <b>"your-email-here"</b> with your email in which you wish to be notified when someone uses LoveCalc.
 <p align="center">
-    <img src="/readmeimages/toreplace.png">
+    <img src="readmeimages/toreplace.png">
 </p>
 
 * Save the changes.
@@ -53,7 +53,7 @@ Now send the link to whoever you want and enjoy!
 <p align="center">Here is a DEMO if you want to have a look at it : https://spongebhav.wtf/demo/lcalc </p>
 
 <p align="center">
-    <img src="/readmeimages/lcalcexample.png">
+    <img src="readmeimages/lcalcexample.png">
 </p>
 
 <h2 align="center">
