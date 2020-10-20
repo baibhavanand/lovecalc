@@ -33,7 +33,7 @@ Love Calc is made with HTML, CSS and PHP. The way LoveCalc works is when someone
 <pre> cd FilesToUpload</pre>
 
 * In your favourite text editor open calculate.php
-<br>In line <b>56</b> replace <b>"your-email-here"</b> with your email in which you wish to be notified when someone uses LoveCalc.
+<br><br>In line <b>56</b> replace <b>"your-email-here"</b> with your email in which you wish to be notified when someone uses LoveCalc.
 <p align="center">
     <img src="/readmeimages/toreplace.png">
 </p>
@@ -46,10 +46,18 @@ Love Calc is made with HTML, CSS and PHP. The way LoveCalc works is when someone
 
 Now send the link to whoever you want and enjoy!
 
+<h2 align="center">
+  <strong>DEMO</strong>
+ </h2>
+ 
+<p align="center">Here is a DEMO if you want to have a look at it : https://spongebhav.wtf/demo/lcalc </p>
 
+<p align="center">
+    <img src="/readmeimages/lcalcexample.png">
+</p>
 
 <h2 align="center">
-  <strong>LICENSE</strong>
+        <strong>LICENSE</strong>
  </h2>
  
  LoveCalc is licensed under the MIT license. Take a look at the [LICENSE](https://github.com/baibhavanand/lovecalc/blob/main/LICENSE) for more information.
