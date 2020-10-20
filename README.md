@@ -69,10 +69,7 @@ Now send the link to whoever you want and enjoy!
     <a href="https://github.com/baibhavanand/lovecalc/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"></a>
 </p>
 
-Feel free to create Pull Requests for any kind of improvements that can be done here.
-
-*While making a PR, make sure to add yourself in thanks.md list.*
-
+Feel free to create Pull Requests for any kind of improvements that can be done here. Please check <a href="https://github.com/baibhavanand/lovecalc">the original repo</a> for more information.
 
 <h2 align="center">
   <strong>Thanks</strong>
