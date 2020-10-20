@@ -50,7 +50,7 @@ Now send the link to whoever you want and enjoy!
   <strong>DEMO</strong>
  </h2>
  
-<p align="center">Here is a DEMO if you want to have a look at it : https://spongebhav.wtf/demo/lcalc </p>
+<p align="center">Here is a DEMO if you want to have a look at it : <a href="https://spongebhav.wtf/demo/lcalc">https://spongebhav.wtf/demo/lcalc</a> </p>
 
 <p align="center">
     <img src="readmeimages/lcalcexample.png">
