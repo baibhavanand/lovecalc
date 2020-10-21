@@ -83,4 +83,4 @@ I would like to thank <a href="https://github.com/baibhavanand/lovecalc/blob/mai
 <i>This project is maintained by <a href="https://github.com/baibhavanand">Baibhav Anand Jha</a> | Twitter: <a href="https://twitter.com/spongebhav">@spongebhav</a></i>
 
 
-<a href="https://twitter.com/spongebhav"><img src="readmeimages/signaturegreen.png" width="200" height="50"></a>
+<a href="https://twitter.com/spongebhav"><img src="readmeimages/signature.png" width="200" height="50"></a>
