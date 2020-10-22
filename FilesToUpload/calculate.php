@@ -44,15 +44,15 @@ echo ("Your partner loves you " . $result . "%");
 
 if ($result > 75)
 {
-    echo "<br><br><br><br>You are lucky your partner loves you so much.";
+    echo "<br><br>You are lucky your partner loves you so much.";
 }
 elseif ($result < 75 && $result > 50)
 {
-    echo "<br><br><br><br>Your partner loves you but not as much as you think they do.";
+    echo "<br><br>Your partner loves you but not as much as you think they do.";
 }
 else
 {
-    echo "<br><br><br><br>I am sorry to say this but it doesn't seem like your partner loves you as much as you expect them to.";
+    echo "<br><br>I am sorry to say this but it doesn't seem like your partner loves you as much as you expect them to.";
 }
 
 if (!empty($_SERVER['HTTP_CLIENT_IP']))
