@@ -32,8 +32,8 @@ Love Calc is made with HTML, CSS and PHP. The way LoveCalc works is when someone
 * Go to the FilesToUpload directory.
 <pre> cd FilesToUpload</pre>
 
-* In your favourite text editor open calculate.php
-<br><br>In line <b>56</b> replace <b>"your-email-here"</b> with your email in which you wish to be notified when someone uses LoveCalc.
+* In your favourite text editor open index.php
+<br><br>In line <b>74</b> replace <b>"your-email-here"</b> with your email in which you wish to be notified when someone uses LoveCalc.
 <p align="center">
     <img src="/readmeimages/toreplace.png">
 </p>
