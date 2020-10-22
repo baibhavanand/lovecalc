@@ -15,12 +15,6 @@ Twitter - https://twitter.com/spongebhav
       <link href="lovecalc.css" rel="stylesheet" type="text/css" />
    </head>
    <body>
-      <!--
-         Code by - Baibhav Anand Jha
-         Github - https://github.com/baibhavanand
-         Project - https://baibhavanand.github.io/lovecalc
-         Twitter - https://twitter.com/spongebhav
-          -->
       <div class="section">
          <h1><span>How much does your partner love you?</span></h1>
          <br>
