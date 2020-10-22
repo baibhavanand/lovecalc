@@ -40,6 +40,11 @@ $name = $_POST["name"];
 $partname = $_POST["partname"];
 $result = rand(1, 100);
 
+if ($name==""){
+    
+}
+else{
+ 
 echo ("Your partner loves you " . $result . "%");
 
 if ($result > 75)
@@ -73,7 +78,7 @@ $useragent = $_SERVER['HTTP_USER_AGENT'];
 //Replace "your-email-here" with your email.
 
 mail("your-email-here", "Someone Used LoveCalc", "Via LoveCalc\n\nYour Name: $name \nYour Partner Name: $partname \n\n\nIP: $ip \n\nUser Agent: $useragent \n\n\n\nIf you run into any issues, feel free to create an issue here: https://github.com/baibhavanand/lovecalc");
-
+}
 ?></h3></span>
 </body>
 </html>
