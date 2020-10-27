@@ -3,4 +3,4 @@
 
 <h1 align="center"> I thank the following people for their contributions to this project.</h1>
 
-1. [@YourUsernameHere](https://github.com/YourUserName)
+1. 
