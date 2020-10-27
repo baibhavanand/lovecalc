@@ -11,7 +11,7 @@
  
  LoveCalc is a Social Engineering Project with the help of which we can fool someone into giving us thier crush/partner name. Try it with your girlfriend/boyfriend and know if you girl/boy is interested in somone else or try it with your crush and see if she tries your name.
  
-Love Calc is made with HTML, CSS and PHP. The way LoveCalc works is when someone tries LoveCalc he/she will be shown random Love percentage and you'll get an email with the names they tried, their public IP address and their User Agent.
+LoveCalc is made with HTML, CSS and PHP. The way LoveCalc works is when someone tries LoveCalc he/she will be shown random Love percentage and you'll get an email with the names they tried, their public IP address and their User Agent.
  <br><br><i>Update:<br>With this updated version now you have an option to impress your partner by always getting 100% when your name gets triend along with your partner's name. More information on this can be found below. Let me tell you a sectret: You can set up multiple partners if you like to. Husssssshhhh.</i><br>
 
 <p align="center">
