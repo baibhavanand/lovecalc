@@ -77,7 +77,7 @@ Now send the link to whoever you want and enjoy!
 </p>
 
 <p align="center">
-    <img src="readmeimages/SpongePatricLoveCalcSpam.png">
+    <img src="readmeimages/SpongePatrickLoveCalcDemo.png">
 </p>
 
 <h2 align="center">
@@ -96,6 +96,10 @@ Now send the link to whoever you want and enjoy!
  
  LoveCalc is licensed under the MIT license. Take a look at the [LICENSE](https://github.com/baibhavanand/lovecalc/blob/main/LICENSE) for more information.
  
+ <p align="center">
+    <img src="readmeimages/SpongePatricLoveCalcSpam.png">
+</p>
+
  <h2 align="center">
   <strong>Pull Requests</strong>
  </h2>
