@@ -73,11 +73,11 @@ Now send the link to whoever you want and enjoy!
  You're done! Now whenever your name gets tried along with the names in names.txt file. You'll always get 100% result instead of a random number.
  
  <p align="center">
-    <img src="/readmeimages/SpongePatrickLoveCalcNames.png">
+    <img src="readmeimages/SpongePatrickLoveCalcNames.png">
 </p>
 
 <p align="center">
-    <img src="/readmeimages/SpongePatricLoveCalcSpam.png">
+    <img src="readmeimages/SpongePatricLoveCalcSpam.png">
 </p>
 
 <h2 align="center">
