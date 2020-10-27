@@ -6,10 +6,6 @@
 </h4>
 
 <p align="center">
-    <img src="readmeimages/LoveCalcBanner.png" width="350" height="350">
-</p>
-
-<p align="center">
     <img src="readmeimages/SpongePatrickLoveCalcAbout.png">
 </p>
 
