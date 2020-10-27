@@ -9,6 +9,10 @@
     <img src="readmeimages/LoveCalcBanner.png" width="350" height="350">
 </p>
 
+<p align="center">
+    <img src="readmeimages/SpongePatrickLoveCalcAbout.png">
+</p>
+
 <h2 align="center">
   <strong>About LoveCalc</strong>
  </h2>
@@ -16,6 +20,10 @@
  LoveCalc is a Social Engineering Project with the help of which we can fool someone into giving us thier crush/partner name. Try it with your girlfriend/boyfriend and know if you girl/boy is interested in somone else or try it with your crush and see if she tries your name.
  
 Love Calc is made with HTML, CSS and PHP. The way LoveCalc works is when someone tries LoveCalc he/she will be shown random Love percentage and you'll get an email with the names they tried, their public IP address and their User Agent.
+
+<p align="center">
+    <img src="readmeimages/SpongePatrickLoveCalcSetup.png">
+</p>
 
 <h2 align="center">
   <strong>Setting Up LoveCalc</strong>
@@ -33,7 +41,7 @@ Love Calc is made with HTML, CSS and PHP. The way LoveCalc works is when someone
 <pre> cd FilesToUpload</pre>
 
 * In your favourite text editor open index.php
-<br><br>In line <b>74</b> replace <b>"your-email-here"</b> with your email in which you wish to be notified when someone uses LoveCalc.
+<br><br>In line <b>93</b> replace <b>"your-email-here"</b> with your email in which you wish to be notified when someone uses LoveCalc.
 <p align="center">
     <img src="readmeimages/toreplace.png">
 </p>
@@ -45,6 +53,32 @@ Love Calc is made with HTML, CSS and PHP. The way LoveCalc works is when someone
 * You're Done!
 
 Now send the link to whoever you want and enjoy!
+
+<p align="center">
+    <img src="readmeimages/SpongePatricLoveCalcUpdate.png">
+</p>
+
+<h2 align="center">
+  <strong>Always Get 100% with selected partners</strong>
+ </h2>
+ 
+ <p align="center">Here is how you can always get 100% with a selected list of partners.</p>
+ 
+ * Go to index.php file.
+ * In line <strong>40</strong>, Replace "your-name-here" with your first name in lowercase letter.
+ * Save the Changes.
+ * Go to the names.txt file and add names of your partners. <i>One name per line, in lowercase letter</i>
+ * Save the Changes.
+ 
+ You're done! Now whenever your name gets tried along with the names in names.txt file. You'll always get 100% result instead of a random number.
+ 
+ <p align="center">
+    <img src="/readmeimages/SpongePatrickLoveCalcNames.png">
+</p>
+
+<p align="center">
+    <img src="/readmeimages/SpongePatricLoveCalcSpam.png">
+</p>
 
 <h2 align="center">
   <strong>DEMO</strong>
