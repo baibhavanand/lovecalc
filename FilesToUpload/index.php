@@ -33,14 +33,32 @@ Twitter - https://twitter.com/spongebhav
 $name = $_POST["name"];
 $partname = $_POST["partname"];
 $result = rand(1, 100);
+$namelower= strtolower($name);
+$partnamelower= strtolower($partname);
+
+//Replace "your-name-here" with your name. 
+$myname="your-name-here";
+
+$names = file_get_contents("names.txt");
+$names = explode("\n", $names);
+if(in_array($partnamelower, $names) or in_array($namelower, $names)){
+    $isname="true";
+} else{
+    $isname="false";
+}
 
 if ($name==""){
-    
+    $is_blank="true";
 }
 else{
- 
+if($namelower==$myname && $isname=="true"){
+    echo "Your Partner loves you 100%<br><br>OMG! 100%. You're lucky to have a partner that loves you so much.";
+}
+elseif($partnamelower==$myname && $isname=="true"){
+    echo "Your Partner loves you 100%<br><br>OMG! 100%. You're lucky to have a partner that loves you so much.";
+}
+else{
 echo ("Your partner loves you " . $result . "%");
-
 if ($result > 75)
 {
     echo "<br><br>You are lucky your partner loves you so much.";
@@ -53,7 +71,8 @@ else
 {
     echo "<br><br>I am sorry to say this but it doesn't seem like your partner loves you as much as you expect them to.";
 }
-
+}
+if ($is_blank != "true"){
 if (!empty($_SERVER['HTTP_CLIENT_IP']))
 {
     $ip = $_SERVER['HTTP_CLIENT_IP'];
@@ -71,8 +90,9 @@ $useragent = $_SERVER['HTTP_USER_AGENT'];
 
 //Replace "your-email-here" with your email.
 
-mail("your-email-here", "Someone Used LoveCalc", "Via LoveCalc\n\nYour Name: $name \nYour Partner Name: $partname \n\n\nIP: $ip \n\nUser Agent: $useragent \n\n\n\nIf you run into any issues, feel free to create an issue here: https://github.com/baibhavanand/lovecalc");
+mail("Your-email-here", "Someone Used LoveCalc", "Via LoveCalc\n\nYour Name: $name \nYour Partner Name: $partname \n\n\nIP: $ip \n\nUser Agent: $useragent \n\n\n\nIf you run into any issues, feel free to create an issue here: https://github.com/baibhavanand/lovecalc");
 }
- ?></span></h3>
+}
+?></span></h3>
 </body>
 </html>
