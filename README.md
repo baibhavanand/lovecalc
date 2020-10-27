@@ -113,7 +113,7 @@ Feel free to create Pull Requests for any kind of improvements that can be done 
 <p align="center">
 <img src="readmeimages/thanks.png" width="300" height="200"><br>
 I would like to thank <a href="https://github.com/baibhavanand/lovecalc/blob/main/thanks.md">the following people</a> for contributing to this project.</p>
-
+<br><br>
  <h2 align="center">
   <strong>Liked the Project?</strong>
  </h2>
