@@ -5,6 +5,10 @@
     <strong>Made with ❤️ by Baibhav Anand. (<a href='https://twitter.com/spongebhav' target="_blank">@spongebhav</a>)</strong>
 </h4>
 
+<p align="center">
+    <img src="/readmeimages/SpongePatrickLoveCalcAbout.png">
+</p>
+
 <h2 align="center">
   <strong>About LoveCalc</strong>
  </h2>
